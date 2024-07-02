@@ -2,6 +2,4 @@ A full-stack real time video conferencing web application, using HTML and CSS fo
 
 To run the project:
 
-Open CMD or terminal on the project and run 'npm install' command
-Then run 'npm start' command
-Next go to browser and write 'http://localhost:3000/action.html' in browser address bar.
+Open CMD or terminal on the project and run 'npm install' command Then run 'npm start' command Next go to browser and write 'http://localhost:3000/action.html' in browser address bar.
